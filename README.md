@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate data science developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davicin3010&label=Profile%20views&color=0e75b6&style=flat" alt="davicin3010" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davicin3010" alt="davicin3010" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **cool stuff from Machine and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davicin3010](https://github.com/davicin3010)
