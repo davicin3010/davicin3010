@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate data science developer from Argentina</h3>
+<h3 align="center">A passionate data scientist from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davicin3010&label=Profile%20views&color=0e75b6&style=flat" alt="davicin3010" /> </p>
 
