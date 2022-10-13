@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **david@pedemonte.net**
 
-- ⚡ Fun fact **I think Data Science is amazing, hope I had discovered it earlier**
+- ⚡ Fun fact **I think Data Science is amazing, wish I had discovered it earlier**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
